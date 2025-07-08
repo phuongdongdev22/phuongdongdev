@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[[https://i.ibb.co/WW8dfC29/hinh-an2h-chibi-nu-cute-mau-hong.webp](https://i.ibb.co/9kKkn57q/chibi.jpg)" alt="phuongdong-banner" style="border-radius: 15px;">
+<img src="https://i.imgur.com/I5T0Zin.jpeg" alt="phuongdong-banner" style="border-radius: 15px;">
 <div align="center">
   <h1><pre>Hi, I'm ℙ𝕙𝕦𝕠𝕟𝕘𝔻𝕠𝕟𝕘</pre></h1>
 </div>
@@ -9,7 +9,7 @@ Though I am ordinary among many.
 
 I am still the one and only in this world!
 
-
+##### Thiếu tiền, thiếu ăn mới lo. Còn thiếu anh em sẽ kiếm người khác tốt hơn anh trăm ngàn lần.
 
 ### My Stack
 
