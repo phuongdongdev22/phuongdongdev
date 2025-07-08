@@ -9,7 +9,7 @@ Though I am ordinary among many.
 
 I am still the one and only in this world!
 
-####### Thiếu tiền, thiếu ăn mới lo. Còn thiếu em anh sẽ kiếm người khác tốt hơn anh trăm ngàn lần.
+#### Thiếu tiền, thiếu ăn mới lo. Còn thiếu em anh sẽ kiếm người khác tốt hơn anh trăm ngàn lần.
 
 ### My Stack
 
